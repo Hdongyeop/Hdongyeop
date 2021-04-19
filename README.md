@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/71421859/115263122-1d01d300-a170-11eb-826b-3a2257825924.png)
-
+I'm interested in developing games.
 <!--
 **Hdongyeop/Hdongyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
