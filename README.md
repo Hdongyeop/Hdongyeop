@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😄🧐
 I'm interested in developing something.
 
 BOJ : https://www.acmicpc.net/user/redsea890
