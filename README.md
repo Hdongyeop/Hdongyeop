@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm interested in developing games.
+I'm interested in developing something.
 
 BOJ : https://www.acmicpc.net/user/redsea890
 <!--
