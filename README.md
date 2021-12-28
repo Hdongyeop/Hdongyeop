@@ -1,5 +1,5 @@
 ## Hi there 😄🧐
-I'm interested in developing something.
+I'm interested in developing something interesting.
 
 BOJ : https://www.acmicpc.net/user/redsea890
 <!--
