@@ -1,7 +1,6 @@
 ## Hi there 😄🧐
-I'm interested in developing something FUN.
+안녕하세요 게임 하는것도 좋아하고 만드는것도 좋아하는 사람입니다.
 
-BOJ : https://www.acmicpc.net/user/redsea890
 <!--
 **Hdongyeop/Hdongyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
