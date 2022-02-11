@@ -13,3 +13,6 @@
 </br>
 <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white">&nbsp &nbsp
 <img src="https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=unrealengine&logoColor=white">&nbsp &nbsp
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hdongyeop&layout=compact)](https://github.com/Hdongyeop)
