@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=020715&height=100&section=header&text=HwangDongYeop&fontSize=60&fontColor=FFF3D4" />
-<h3>👀 Who are you</h3>
+<h3>👀 Who am I</h3>
 <h4> ✅ I try to be a better today than yesterday</h4>
 <h4> ✅ I don't let go of things I don't know</h4>
 <h4> ✅ It's fun to learn something new</h4>
