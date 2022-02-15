@@ -4,7 +4,7 @@
 <h4> ✅ I try to be a better today than yesterday</h4>
 <h4> ✅ I don't let go of things I don't know</h4>
 <h4> ✅ It's fun to learn something new</h4>
-<h3 align="center"><b>👍 Tech Stack</b></h3>
+<h3 align="center"><b>📚 Tech Stack</b></h3>
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp &nbsp
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">&nbsp &nbsp
